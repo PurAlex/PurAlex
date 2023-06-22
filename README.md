@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on a small website
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: nicky-nico-1998@outlook.com
 
